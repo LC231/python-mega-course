@@ -1,5 +1,5 @@
 import streamlit as st
-from First_Project import Functions
+import First_Project_Web.Functions as Functions
 
 def add_todo():
     todo = st.session_state["new_todo"] + '\n'

@@ -1,5 +1,5 @@
 import FreeSimpleGUI.window
-import Functions
+import First_Project_Web.Functions as Functions
 import FreeSimpleGUI as sg
 import time
 

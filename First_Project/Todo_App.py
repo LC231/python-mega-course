@@ -1,4 +1,4 @@
-import Functions
+import First_Project_Web.Functions as Functions
 import time
 
 now = time.strftime("%b %d %Y %H:%M:%S")
